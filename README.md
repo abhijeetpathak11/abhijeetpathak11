@@ -1,16 +1,31 @@
-## Hi there 👋
+# Abhijeet Pathak
 
-<!--
-**abhijeetpathak11/abhijeetpathak11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Abhijeet Pathak — currently pursuing MCA and learning the fundamentals of software development.  
+I’m working on improving my coding skills through small projects and consistent practice.
 
-Here are some ideas to get you started:
+### What I’m learning right now
+- Java (OOP, basic programs & small projects)
+- Python (basics & problem-solving)
+- Web Development (HTML, CSS, JavaScript)
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I like working on
+- Simple backend logic in Java/Python  
+- Clean and easy-to-understand code  
+- Small real-life projects to improve skills  
+- Fixing errors and understanding how things work internally
+
+### Tools & Technologies I use
+- Java • Python  
+- HTML • CSS • JavaScript  
+- SQL  
+- Git & GitHub  
+- VS Code • IntelliJ • PyCharm
+
+### Current goals
+- Build 3–4 solid beginner projects  
+- Improve DSA basics  
+- Prepare for internship opportunities  
+
+### Contact
+Email: abhijeetpathak8825@gmail.com
